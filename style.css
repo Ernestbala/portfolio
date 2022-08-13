@@ -1,0 +1,17 @@
+body {
+    font-size: 15pt;
+    
+}
+
+.bg-white {
+  background-color: white;
+}
+
+@font-face {
+  font-family: "logo-title-font" ;
+  src: url(/FontsFree-Net-All-Round-Gothic-W01-Bold.ttf);
+}
+
+.section-title {
+  font-family: "logo-title-font";
+}
